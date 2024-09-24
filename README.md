@@ -18,7 +18,7 @@ Este projeto é uma aplicação de criar carteiras de Bitcoin. Abaixo estão as 
 
    ```bash
    git clone https://github.com/jonesrasta/eco-chain.git
-   cd btc-desafio-dio
+   cd eco-chain
    ```
 
 2. Instale as dependências do projeto:
