@@ -1,6 +1,6 @@
 export default function Carousel() {
   return (
-    <div className="max-w-5xl flex mx-auto items-center justify-center -mt-36 mb-16 overflow-x-scroll touch-pan-x scroll-smooth hide-scrollbar">
+    <div className="max-w-5xl flex mx-auto items-center justify-center -mt-28 mb-28 overflow-x-scroll touch-pan-x scroll-smooth hide-scrollbar">
       <ul className="flex items-center justify-center [&_li]:mx-6 [&_img]:max-w-none">
         <li>
           <img src="/src/assets/carousel/litecoin.svg" alt="Litecoin" />

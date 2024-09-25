@@ -7,7 +7,7 @@ import { Bitcoin } from 'lucide-react';
 
 export default function Cards() {
   return (
-    <div className=" gap-6 flex px-8 mx-auto max-sm:flex-col items-center justify-center mb-16">
+    <div className=" gap-6 flex px-8 mx-auto max-sm:flex-col items-center justify-center mb-24">
     <Card className="col-span-12 sm:col-span-4 h-[300px] w-[380px] bg-[#1C1C1C] border border-gray-700">
       <CardHeader className="z-10 top-1 flex-col !items-start mx-2 my-4">
       <Leaf color="#3F39E8" size={46} />

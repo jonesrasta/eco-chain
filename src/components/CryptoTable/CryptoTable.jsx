@@ -111,7 +111,7 @@ const TABLE_DATA = [
 // JSX Component
 const CryptoTable = () => {
   return (
-    <Card className="h-full w-full bg-[#0000]  max-w-6xl mx-auto">
+    <Card className="h-full w-full bg-[#0000]  max-w-6xl mx-auto mb-20">
         <h2 className="text-2xl font-normal tracking-wider text-center text-white">Cotação Criptomoedas</h2>
       <CardHeader
         floated={false}
